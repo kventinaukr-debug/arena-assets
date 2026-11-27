@@ -1,0 +1,21 @@
+{
+    "schema_version":  1,
+    "project":  "",
+    "created_utc":  "2026-11-27T10:23:46.2310578Z",
+    "files":  [
+                  {
+                      "path":  "Hand_with_marker_5497f220_2K.svg",
+                      "bytes":  90516,
+                      "sha256":  "0169dc7c4553fc9b7addf8026ee26c8a4321a7d1997904ee9e5ec6b70f969182",
+                      "download_url":  "https://raw.githubusercontent.com/kventinaukr-debug/arena-assets/main/projects/scene-20261127-122346-ffd31b/Hand_with_marker_5497f220_2K.svg",
+                      "pages_url":  "https://kventinaukr-debug.github.io/arena-assets/projects/scene-20261127-122346-ffd31b/Hand_with_marker_5497f220_2K.svg"
+                  },
+                  {
+                      "path":  "unnamed (1).svg",
+                      "bytes":  1565386,
+                      "sha256":  "512946e9bbb08d92a19667660ff662a585c037ae560ba373dc4c5b70bccbfaf8",
+                      "download_url":  "https://raw.githubusercontent.com/kventinaukr-debug/arena-assets/main/projects/scene-20261127-122346-ffd31b/unnamed%20(1).svg",
+                      "pages_url":  "https://kventinaukr-debug.github.io/arena-assets/projects/scene-20261127-122346-ffd31b/unnamed%20(1).svg"
+                  }
+              ]
+}
