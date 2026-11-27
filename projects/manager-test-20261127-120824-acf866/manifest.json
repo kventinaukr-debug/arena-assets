@@ -1,0 +1,14 @@
+{
+    "schema_version":  1,
+    "project":  "manager-test",
+    "created_utc":  "2026-11-27T10:08:25.0451669Z",
+    "files":  [
+                  {
+                      "path":  "test.svg",
+                      "bytes":  305,
+                      "sha256":  "25b6416d76fb50c7bf62bf1caeb3d97964ceb17dd08e8e964913d649f1f6b25d",
+                      "download_url":  "https://raw.githubusercontent.com/kventinaukr-debug/arena-assets/main/projects/manager-test-20261127-120824-acf866/test.svg",
+                      "pages_url":  "https://kventinaukr-debug.github.io/arena-assets/projects/manager-test-20261127-120824-acf866/test.svg"
+                  }
+              ]
+}
